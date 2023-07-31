@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Form from "./Components/UiForm";
+import Form from "./Components/InputSubmitForm";
 import TextArea from "./Components/TextArea";
 import Testing from "./Components/Testing";
 
